@@ -1,0 +1,86 @@
+[2026-05-31T13:42:17.042Z] INFO  启动：gotLock = true
+[2026-05-31T13:42:17.105Z] INFO  ===== 应用启动 whenReady =====
+[2026-05-31T13:42:17.106Z] INFO  userData 目录: C:\Users\wxy20\AppData\Roaming\clip-history
+[2026-05-31T13:42:17.107Z] INFO  数据库初始化完成
+[2026-05-31T13:42:17.141Z] INFO  窗口已创建
+[2026-05-31T13:42:17.150Z] INFO  托盘已创建
+[2026-05-31T13:42:17.168Z] INFO  启动流程全部完成，窗口已显示
+[2026-05-31T13:42:25.949Z] ERROR render-process-gone: {"reason":"crashed","exitCode":143}
+[2026-05-31T13:42:25.991Z] ERROR child-process-gone: {"type":"Utility","reason":"crashed","exitCode":143,"serviceName":"network.mojom.NetworkService","name":"Network Service"}
+[2026-05-31T13:42:26.509Z] ERROR child-process-gone: {"type":"GPU","reason":"crashed","exitCode":143,"serviceName":"GPU"}
+[2026-05-31T13:44:17.878Z] INFO  启动：gotLock = true
+[2026-05-31T13:44:17.939Z] INFO  ===== 应用启动 whenReady =====
+[2026-05-31T13:44:17.939Z] INFO  userData 目录: C:\Users\wxy20\AppData\Roaming\clip-history
+[2026-05-31T13:44:17.940Z] INFO  数据库初始化完成
+[2026-05-31T13:44:17.970Z] INFO  窗口已创建
+[2026-05-31T13:44:17.982Z] INFO  托盘已创建
+[2026-05-31T13:44:17.996Z] INFO  启动流程全部完成，窗口已显示
+[2026-05-31T13:44:22.298Z] INFO  启动：gotLock = false
+[2026-05-31T13:44:22.300Z] INFO  已有实例在运行，本次启动退出（单实例）
+[2026-05-31T13:46:14.910Z] ERROR child-process-gone: {"type":"Utility","reason":"killed","exitCode":1073807364,"serviceName":"network.mojom.NetworkService","name":"Network Service"}
+[2026-05-31T13:46:14.962Z] ERROR child-process-gone: {"type":"Utility","reason":"crashed","exitCode":-1073741205,"serviceName":"network.mojom.NetworkService","name":"Network Service"}
+[2026-05-31T14:13:40.276Z] INFO  启动：gotLock = true
+[2026-05-31T14:13:40.356Z] INFO  ===== 应用启动 whenReady =====
+[2026-05-31T14:13:40.356Z] INFO  userData 目录: C:\Users\wxy20\AppData\Roaming\clip-history
+[2026-05-31T14:13:40.357Z] INFO  数据库初始化完成
+[2026-05-31T14:13:40.495Z] INFO  窗口已创建
+[2026-05-31T14:13:40.503Z] INFO  托盘已创建
+[2026-05-31T14:13:40.513Z] INFO  启动流程全部完成，窗口已显示
+[2026-05-31T14:13:45.680Z] INFO  启动：gotLock = false
+[2026-05-31T14:13:45.683Z] INFO  已有实例在运行，本次启动退出（单实例）
+[2026-06-04T12:25:53.754Z] INFO  启动：gotLock = true
+[2026-06-04T12:25:53.849Z] INFO  ===== 应用启动 whenReady =====
+[2026-06-04T12:25:53.849Z] INFO  userData 目录: C:\Users\wxy20\AppData\Roaming\clip-history
+[2026-06-04T12:25:53.850Z] INFO  数据库初始化完成
+[2026-06-04T12:25:53.939Z] INFO  窗口已创建
+[2026-06-04T12:25:53.956Z] INFO  托盘已创建
+[2026-06-04T12:25:53.974Z] INFO  启动流程全部完成，窗口已显示
+[2026-06-04T13:28:26.926Z] ERROR child-process-gone: {"type":"Utility","reason":"killed","exitCode":1073807364,"serviceName":"network.mojom.NetworkService","name":"Network Service"}
+[2026-06-18T12:25:22.529Z] INFO  启动：gotLock = true
+[2026-06-18T12:25:22.616Z] INFO  ===== 应用启动 whenReady =====
+[2026-06-18T12:25:22.616Z] INFO  userData 目录: C:\Users\wxy20\AppData\Roaming\clip-history
+[2026-06-18T12:25:22.623Z] INFO  数据库初始化完成
+[2026-06-18T12:25:22.664Z] INFO  窗口已创建
+[2026-06-18T12:25:22.672Z] INFO  托盘已创建
+[2026-06-18T12:25:22.696Z] INFO  启动流程全部完成，窗口已显示
+[2026-06-18T12:25:33.013Z] INFO  启动：gotLock = false
+[2026-06-18T12:25:33.016Z] INFO  已有实例在运行，本次启动退出（单实例）
+[2026-06-18T12:40:40.733Z] INFO  will-quit（程序即将退出）
+[2026-06-18T12:40:40.734Z] INFO  quit（程序已退出）
+[2026-06-18T13:27:32.282Z] ERROR uncaughtException: TypeError: Cannot read properties of undefined (reading 'disableHardwareAcceleration')
+    at Object.<anonymous> (D:\项目文件夹\历史粘贴板\src\main.js:57:5)
+    at Module._compile (node:internal/modules/cjs/loader:1484:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1564:10)
+    at Module.load (node:internal/modules/cjs/loader:1295:32)
+    at Module._load (node:internal/modules/cjs/loader:1111:12)
+    at c._load (node:electron/js2c/node_init:2:16955)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:189:12)
+    at node:internal/main/run_main_module:28:49
+[2026-06-18T13:28:05.061Z] INFO  启动：gotLock = true
+[2026-06-18T13:28:05.136Z] INFO  ===== 应用启动 whenReady =====
+[2026-06-18T13:28:05.136Z] INFO  userData 目录: C:\Users\wxy20\AppData\Roaming\clip-history
+[2026-06-18T13:28:05.137Z] INFO  数据库初始化完成
+[2026-06-18T13:28:05.190Z] INFO  窗口已创建
+[2026-06-18T13:28:05.202Z] INFO  托盘已创建
+[2026-06-18T13:28:05.221Z] INFO  启动流程全部完成，窗口已显示
+[2026-06-18T13:28:07.679Z] INFO  启动：gotLock = false
+[2026-06-18T13:28:07.682Z] INFO  已有实例在运行，本次启动退出（单实例）
+[2026-06-18T13:28:17.069Z] INFO  启动：gotLock = false
+[2026-06-18T13:28:17.072Z] INFO  已有实例在运行，本次启动退出（单实例）
+[2026-06-18T13:28:41.292Z] INFO  启动：gotLock = false
+[2026-06-18T13:28:41.295Z] INFO  已有实例在运行，本次启动退出（单实例）
+[2026-06-18T13:28:50.310Z] INFO  启动：gotLock = false
+[2026-06-18T13:28:50.312Z] INFO  已有实例在运行，本次启动退出（单实例）
+[2026-06-18T13:29:02.951Z] INFO  will-quit（程序即将退出）
+[2026-06-18T13:29:02.952Z] INFO  quit（程序已退出）
+[2026-06-18T13:29:08.321Z] INFO  启动：gotLock = true
+[2026-06-18T13:29:08.400Z] INFO  ===== 应用启动 whenReady =====
+[2026-06-18T13:29:08.400Z] INFO  userData 目录: C:\Users\wxy20\AppData\Roaming\clip-history
+[2026-06-18T13:29:08.401Z] INFO  数据库初始化完成
+[2026-06-18T13:29:08.443Z] INFO  窗口已创建
+[2026-06-18T13:29:08.455Z] INFO  托盘已创建
+[2026-06-18T13:29:08.477Z] INFO  启动流程全部完成，窗口已显示
+[2026-06-18T13:29:10.433Z] INFO  启动：gotLock = false
+[2026-06-18T13:29:10.435Z] INFO  已有实例在运行，本次启动退出（单实例）
+[2026-06-18T13:32:05.345Z] INFO  will-quit（程序即将退出）
+[2026-06-18T13:32:05.347Z] INFO  quit（程序已退出）
